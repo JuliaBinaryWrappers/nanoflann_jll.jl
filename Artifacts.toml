@@ -1,0 +1,6 @@
+[nanoflann]
+git-tree-sha1 = "8ce4ede8d982c0783f25bbcbf45729ef198bee92"
+
+    [[nanoflann.download]]
+    sha256 = "9683df72958000acb9e13dc3228da5a9cedeb202fa23ed978f9f2aa6409f7ec0"
+    url = "https://github.com/JuliaBinaryWrappers/nanoflann_jll.jl/releases/download/nanoflann-v1.3.2+0/nanoflann.v1.3.2.any.tar.gz"
